@@ -28,5 +28,5 @@ This project uses ElevenLabs to create a conversational AI voice assistant named
 
 ## Repository Contents
 - README.md
-- agent-workflow.png
-- agent-overview.png
+- ![Agent Workflow](agent-workflow.png)
+- ![Agent Overview](agent-overview.png)
